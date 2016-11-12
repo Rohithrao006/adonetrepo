@@ -1,0 +1,8 @@
+D:\rohithrao\c#\visualstudio\adonet\bin\Debug\adonet.exe
+D:\rohithrao\c#\visualstudio\adonet\bin\Debug\adonet.pdb
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.csprojResolveAssemblyReference.cache
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.Form1.resources
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.Properties.Resources.resources
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.csproj.GenerateResource.Cache
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.exe
+D:\rohithrao\c#\visualstudio\adonet\obj\Debug\adonet.pdb
